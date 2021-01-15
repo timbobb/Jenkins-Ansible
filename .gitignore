@@ -6,6 +6,7 @@ output/
 # Temporary file directory
 .terraform
 .terrafom.lock.hcl
+terraform.tfstate.backup
 
 # Crash Log
 crash.log
