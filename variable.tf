@@ -25,6 +25,9 @@ variable "nat_amis" {
   }
 }
 
+variable "my_app_s3_bucket" {
+  default = "bila-tech-dev"
+}
 variable "web_instance_type" {
   description = "Choose instance type for your stack"
   type        = string
