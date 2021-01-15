@@ -4,7 +4,8 @@
 output/
 
 # Temporary file directory
-tmp/nanoc/
+.terraform
+.terrafom.lock.hcl
 
 # Crash Log
 crash.log
